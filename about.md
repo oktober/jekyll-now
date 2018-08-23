@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a web developer.
 
-### More Information
+Using technology, I want to **help small businesses become more competitive**.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Writing here about all the ways small businesses can **learn more about technology** and helping them to **take small steps to achieve big changes**.
