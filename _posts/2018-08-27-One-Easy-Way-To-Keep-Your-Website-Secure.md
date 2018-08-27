@@ -36,3 +36,7 @@ __Anything connected to the internet is at risk.__
 - Your shop's security system that you can log in to remotely.
 
 All. At. Risk.
+
+If it can connect to the internet, **_it's at risk._**
+
+---
