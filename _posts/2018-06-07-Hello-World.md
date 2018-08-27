@@ -3,8 +3,6 @@ layout: post
 title: Hello World
 ---
 
-# Jumping back in
-
 Hello world, it's nice to be back.
 
 I took a short hiatus from programming while I earned my Bachelor's degree in Business - IT Management. It was awesome getting back into school and learning about a whole new field. I discovered my passion for economics and all things business. This newfound passion is a perfect pairing for my background in technology.
