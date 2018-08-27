@@ -40,3 +40,28 @@ All. At. Risk.
 If it can connect to the internet, **_it's at risk._**
 
 ---
+
+One __super easy thing__ you can do today to protect all the things - __Run Those Updates!__
+
+I know it sucks. I promise I do. But if you want to save yourself tons of time, money, and a huge headache - prevent your technology from being comprised today. Run Those Updates!
+
+At the absolute minimum, your:
+- __operating system__ should be updated to the most recent version
+- __browser__ should be updated
+- __WordPress (or any other CMS) site__ should be updated
+- __apps__ should be updated
+- __phone__ should be updated
+- __web server__ (if you host your own site) should be updated
+- __wifi router__ should be updated (_and the default password should be changed - more on that later_
+
+**_Right now you can:_**
+1. Think of all your tech systems that might be connected to the internet
+2. Write them down (_yes, all of them!_)
+3. Go update them
+4. Turn on automatic updates if you can
+5. Set a monthly reminder for everything else
+
+This is the easiest thing you can do right now to keep your website and technology secure.
+
+Save your future self a headache and tons of time by preventing attacks today.
+Run Those Updates!
