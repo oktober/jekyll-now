@@ -17,7 +17,7 @@ There's tons of small businesses out there. And they have a hard time [keeping t
 
 ---
 
-#3 Reasons You Should Switch to HTTPS Today
+# 3 Reasons You Should Switch to HTTPS Today
 1. __You'll get a boost in SEO__
 In 2014, [Google added HTTPS as a ranking factor](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html). It was small (about 1%), but it could be enough to bump you up from page 2.
 
