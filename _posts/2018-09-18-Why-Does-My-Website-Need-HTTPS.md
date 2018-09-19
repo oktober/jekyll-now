@@ -22,7 +22,7 @@ There are tons of small businesses out there. And they have a hard time [keeping
 In 2014, [Google added HTTPS as a ranking factor](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html). It was small (about 1%), but it could be enough to bump you up from page 2.
 
 
-2. __Browsers show your site as secure__ ![Screenshot of secure github URL in browser with lock](/images/secure-website.png)
+2. ![Screenshot of secure github URL in browser with lock](/images/secure-website.png) __Browsers show your site as secure__ 
 When your site is secure, customers can trust you. Where there's trust, there's a relationship. Where there's a relationship, there are continual sales.
 
 3. __Your customer's data will be more secure__
