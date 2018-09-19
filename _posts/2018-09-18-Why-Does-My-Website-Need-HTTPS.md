@@ -13,7 +13,7 @@ Small businesses are a __huge target for hackers__.
 - [43% of Cyber Attacks Target Small Businesses](https://smallbiztrends.com/2016/04/cyber-attacks-target-small-business.html)
 - [Why Hackers Target Small Businesses](https://www.inc.com/magazine/201312/john-brandon/hackers-target-small-business.html)
 
-There's tons of small businesses out there. And they have a hard time [keeping their software up to date]({% post_url One-Easy-Way-To-Keep-Your-Website-Secure/ %}) and secure.
+There's tons of small businesses out there. And they have a hard time [keeping their software up to date]({% post_url 2018-08-27-One-Easy-Way-To-Keep-Your-Website-Secure %}) and secure.
 
 ---
 
