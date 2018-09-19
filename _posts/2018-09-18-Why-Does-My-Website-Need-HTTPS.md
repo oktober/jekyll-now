@@ -10,8 +10,8 @@ And that's why you need to do it.
 
 Small businesses are a __huge target for hackers__.
 - [Small Businesses are Now Big Targets for Hackers](https://smallbiztrends.com/2018/08/cybercriminals-target-small-businesses.html){:target="_blank"}
-- [43% of Cyber Attacks Target Small Businesses](https://smallbiztrends.com/2016/04/cyber-attacks-target-small-business.html)
-- [Why Hackers Target Small Businesses](https://www.inc.com/magazine/201312/john-brandon/hackers-target-small-business.html)
+- [43% of Cyber Attacks Target Small Businesses](https://smallbiztrends.com/2016/04/cyber-attacks-target-small-business.html){:target="_blank"}
+- [Why Hackers Target Small Businesses](https://www.inc.com/magazine/201312/john-brandon/hackers-target-small-business.html){:target="_blank"}
 
 There are tons of small businesses out there. And they have a hard time [keeping their software up to date]({% post_url 2018-08-27-One-Easy-Way-To-Keep-Your-Website-Secure %}) and secure.
 
@@ -26,7 +26,7 @@ In 2014, [Google added HTTPS as a ranking factor](https://webmasters.googleblog.
 When your site is secure, customers can trust you. Where there's trust, there's a relationship. Where there's a relationship, there are continual sales. ![Screenshot of secure github URL in browser with lock](/images/secure-website.png) 
 
 3. __Your customer's data will be more secure__
-When your customer clicks on something, enters information, or logs in and out - those actions will be encrypted (_masked or obscured_). This prevents ["man in the middle" attacks](https://www.makeuseof.com/tag/man-middle-attack-security-jargon-explained/). You __must use HTTPS if you gather ANY data from customers__ on your site (email, usernames, passwords, addresses, phone numbers, location, etc.)
+When your customer clicks on something, enters information, or logs in and out - those actions will be encrypted (_masked or obscured_). This prevents ["man in the middle" attacks](https://www.makeuseof.com/tag/man-middle-attack-security-jargon-explained/){:target="_blank"}. You __must use HTTPS if you gather ANY data from customers__ on your site (email, usernames, passwords, addresses, phone numbers, location, etc.)
 
 If you don't think you gather data from your customers, __use it anyway__! Chances are you do and just don't know it (maybe through analytics or other 3rd party software like ads). Or you will collect data on your customers at some point. Do it now and your customers can trust you to secure their valuable information.
 
