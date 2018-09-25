@@ -12,6 +12,8 @@ Let's pretend we live in a safer world and nothing gets breached. You still need
 
 You can't be secure and keep track of all your passwords on your own anymore. It's just too hard.
 
+---
+
 ## So What Can You Do?
 
 You can **get a password manager**.  I recommend this for every individual and business nowadays.
@@ -34,6 +36,8 @@ It should also have a browser extension* that gets updated fairly regularly. The
 
 *(*When you find the browser extension for your password manager, make sure it's the right one. It should have a link to the company website, should have lots of reviews, and should be updated regularly*).
 
+---
+
 ## Creating A Secure Master Password
 
 The EFF (Electronic Freedom Foundation) has great tips on creating a secure password.
@@ -53,6 +57,8 @@ This is helpful if you have employees. It's so helpful, you should teach them ab
 You can also use the password manager when you work with a contractor or other business. If you work with a marketing firm, easily share your social media credentials without them seeing any passwords. They can still log in and set up a marketing campaign for you.
 
 If you think any account may have been compromised (*there's a data breach or just weird things going on*), change the password immediately. Ensure it has been updated in the password manager and everyone on your team will be updated as well.
+
+---
 
 ## Wrap It Up
 
