@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Does My Website Need to Use HTTPS?
+title: How To Keep Your Business Passwords Secure
 ---
 
 Long gone are the days when you only had a handful of passwords. Everything's online now. And everyone wants you to sign up or log in.
