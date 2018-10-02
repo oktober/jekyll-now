@@ -1,3 +1,8 @@
+---
+layout: post
+title: Why Does My Website Need to Use HTTPS?
+---
+
 Long gone are the days when you only had a handful of passwords. Everything's online now. And everyone wants you to sign up or log in.
 
 **You could use one very strong password across all your websites (*which I would NOT recommend*)**. But what about the misguided website that only allows a 20 character password? Then you're creating a different password for just that one.
