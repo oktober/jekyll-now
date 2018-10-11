@@ -9,6 +9,8 @@ Long gone are the days when you only had a handful of passwords. Everything's on
 
 Then you come across a website that won't allow a special character you use. Now you need to make a different password. And on and on it goes.
 
+<!--more-->
+
 **What happens when password data gets leaked from a site?** That one strong password won't help you anymore. It's now freely available across the web and linked with your email address.
 
 **What about updating your secure password(s)?** If you're like me, you have hundreds of site logins. What if one of them gets breached (*hackers get your data and share or sell it to the highest bidder*)? Which they likely will at some point... Now you have to update ALL your other website logins.

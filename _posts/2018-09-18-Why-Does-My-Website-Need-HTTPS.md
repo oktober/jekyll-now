@@ -8,6 +8,8 @@ If you haven't already made the switch, you’re probably wondering **_why do yo
 You're a small business. You don't have a budget to spend on full-time IT. You barely have time to update your website, let alone move it from HTTP to HTTPS.
 And that's why you need to do it.
 
+<!--more-->
+
 Small businesses are a __huge target for hackers__.
 - [Small Businesses are Now Big Targets for Hackers](https://smallbiztrends.com/2018/08/cybercriminals-target-small-businesses.html){:target="_blank"}
 - [43% of Cyber Attacks Target Small Businesses](https://smallbiztrends.com/2016/04/cyber-attacks-target-small-business.html){:target="_blank"}

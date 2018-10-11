@@ -7,6 +7,8 @@ Your business just started or has been up and running for a little bit. But cust
 
 One great marketing tool, whether you have a website or not, is a [Facebook business page](https://www.facebook.com/business/learn/facebook-page-basics){:target="_blank"}.
 
+<!--more-->
+
 According to [Katie Sehl on Hootsuite](https://blog.hootsuite.com/facebook-demographics/){:target="_blank"}, there are over 2 billion active users each month on Facebook and they are probably in your target market.
 
 **But a Facebook page is not ideal for every business.** Your target market may be active on other social media platforms or may not be very active online. So how do you know if it's right for your business? 

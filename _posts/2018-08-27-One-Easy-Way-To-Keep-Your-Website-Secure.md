@@ -17,6 +17,8 @@ But we HAVE to do it.
 
 What is it? __Updates__.
 
+<!--more-->
+
 ---
 
 Yes, updates are annoying.

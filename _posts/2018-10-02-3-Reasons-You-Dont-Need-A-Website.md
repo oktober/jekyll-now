@@ -6,9 +6,11 @@ title: 3 Reasons You Don't Need A Website
 Every business has a website now or so it seems. You figure your business needs one too. But maybe not.
 
 Every business needs **an online presence**.
-But every business doesn't need a *website*.
+But not every business needs a *website*.
 
 Here are 3 reasons you probably don't need one.
+
+<!--more-->
 
 ### 1. You don't have the money
 
