@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Does My Website Need to Use HTTPS?
+description: If you haven’t already made the switch, you’re probably wondering, "Why does my website need HTTPS?" We'll tell you why you're a target and why you need it today.
 ---
 
 If you haven't already made the switch, you’re probably wondering **_why do you even need HTTPS?_**
