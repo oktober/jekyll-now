@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Keep Your Business Passwords Secure
+description: Long gone are the days when you only had a few passwords. Every website wants you to sign up or log in. How do you manage all those passwords and keep them secure?
 ---
 
 Long gone are the days when you only had a handful of passwords. Everything's online now. And everyone wants you to sign up or log in.
