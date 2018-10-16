@@ -27,11 +27,11 @@ You can **get a password manager**.  I recommend this for every individual and b
 
 *Disclaimer: I'm not going to suggest any one password manager over another. There are plenty of options if you search "password manager" and there's plenty of reviews as well. Pick what works best for your situation.*
 
-A password manager is an app and/or service. You set up a username and a [VERY strong master password](https://ssd.eff.org/en/module/creating-strong-passwords) *(see section below)*. Then you can store website logins, secure notes, images, and pretty much any data you want to keep secure in your "vault"*.  
+A password manager is an app and/or service. You set up a username and a [VERY strong master password](https://ssd.eff.org/en/module/creating-strong-passwords){:target="_blank"} *(see section below)*. Then you can store website logins, secure notes, images, and pretty much any data you want to keep secure in your "vault"*.  
 
 *(*Remember - nothing is unhackable. Anything can be breached so think about the pros and cons for your situation when storing data anywhere.*)
 
-I even like to store my [fake answers to security questions](https://www.wired.com/2016/09/time-kill-security-questions-answer-lies/) that many websites require. I store them in my password manager so I don't have to remember the answers. Using fake answers, it's harder for someone to look through my social media presence to find the actual answers and hack into my account.
+I even like to store my [fake answers to security questions](https://www.wired.com/2016/09/time-kill-security-questions-answer-lies/){:target="_blank"} that many websites require. I store them in my password manager so I don't have to remember the answers. Using fake answers, it's harder for someone to look through my social media presence to find the actual answers and hack into my account.
 
 All your info should be encrypted. I can't think of a password manager that wouldn't do this, but check that they do first. If there's a data breach, your information should be encrypted* and look like gibberish.
 
@@ -39,7 +39,7 @@ All your info should be encrypted. I can't think of a password manager that woul
 
 A good password manager should work on multiple devices (*though this is likely for a fee*) like your laptop, tablet, and phone. 
 
-It should also have a browser extension* that gets updated fairly regularly. The extension can automatically fill in your log in data. This saves you time and also ensures that you're on the correct, legitimate website ([a common phishing tactic](https://www.globalsign.com/en/blog/how-to-spot-a-fake-website/)).
+It should also have a browser extension* that gets updated fairly regularly. The extension can automatically fill in your log in data. This saves you time and also ensures that you're on the correct, legitimate website ([a common phishing tactic](https://www.globalsign.com/en/blog/how-to-spot-a-fake-website/){:target="_blank"}).
 
 *(*When you find the browser extension for your password manager, make sure it's the right one. It should have a link to the company website, should have lots of reviews, and should be updated regularly*).
 
@@ -49,7 +49,7 @@ It should also have a browser extension* that gets updated fairly regularly. The
 
 The EFF (Electronic Freedom Foundation) has great tips on creating a secure password.
 
-They recommend using [dice and a word list](https://ssd.eff.org/en/module/creating-strong-passwords). You just need 5 dice and their word list [to create a strong passphrase](https://www.eff.org/dice).
+They recommend using [dice and a word list](https://ssd.eff.org/en/module/creating-strong-passwords){:target="_blank"}. You just need 5 dice and their word list [to create a strong passphrase](https://www.eff.org/dice){:target="_blank"}.
 
 Only write down your passphrase if you can store it safely or only until you've memorized it. If you forget it, it can be extremely hard to access your password manager account.
 
