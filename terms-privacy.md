@@ -93,6 +93,6 @@ If you wish to disable cookies you may do so through your web browser options. I
 
 Users might be asked to subscribe to our newsletter or to receive free products, by providing name and email address to receive communication from us. We use a secure opt-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at ____.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at yourprivacy[at]staciefarmer[dot]com.
 
 _Last Updated:_ September 28, 2018
