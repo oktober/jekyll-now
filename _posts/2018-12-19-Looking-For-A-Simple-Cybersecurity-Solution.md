@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking For a Simple Cybersecurity Solution? Run Regular Backups
+categories: Cybersecurity
 description: Do you just want to do the bare minimum to protect yourself from online attacks? If there's one thing you need to do, it's this.
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking Back To Begin Looking Forward
+categories: Musings
 description: Going through my goals invigorates me. I love looking and moving forward. It feels like a new year is a fresh start. It also provides valuable insight. We can imagine the type of life we want to be living, which is important to think about whether we follow through on our resolutions/goals or not.
 ---
 

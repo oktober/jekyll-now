@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Why Cybersecurity Is So Hard
+categories: Cybersecurity
 description: Why is cybersecurity so difficult? It feels like there's new rules to follow every day. There's a new threat. New ways of doing it wrong. It's not you. The systems are broken and always have been.
 ---
 

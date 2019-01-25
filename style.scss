@@ -227,14 +227,21 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 9px;
   font-family: $defaultHeadingFont;
   font-size: 18px;
+  text-align: right;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
+    font-size: 16px;
+  }
+
+  a.page {
+    font-family: $defaultBodyFont;
+    color: $gray;
     font-size: 16px;
   }
 

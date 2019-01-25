@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We've Lost Control Of Our Data
+categories: [Musings, Cybersecurity]
 description: Do you know where your data is? How much have you given out? Who is it going to? What does it say about you? So much of our data is in someone else's hands and we've lost control of it.
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: One Easy Way To Keep Your Website Secure
+categories: Cybersecurity
 description: There's one super easy way to keep your website secure and safe. Make sure you know what it is and how to prevent your website from getting hacked.
 ---
 
