@@ -54,7 +54,7 @@ But, you didn’t write it down. You memorized it. So a thief needs to steal you
 **Two *separate* forms of authentication are better than one**. And three separate forms are better than two. But security needs to be convenient, otherwise you wouldn’t do it. So for most situations, having two separate forms of authentication is decently secure.
 
 ## Why Does 2FA Matter Online?
-**It’s vital that you use 2 separate forms of authentication for online accounts**. Because it’s easy to impersonate someone online. It’s easy to trick the computer into thinking a bad guy is you, the good guy. The way the internet works means security is extremely important and also difficult to implement. So businesses have to rely on you, the user, to make things more secure.
+**It’s vital that you use 2 *separate* forms of authentication for online accounts**. Because it’s easy to impersonate someone online. It’s easy to trick the computer into thinking a bad guy is you, the good guy. The way the internet works means security is extremely important and also difficult to implement. So businesses have to rely on you, the user, to make things more secure.
 
 Take most online accounts. You need a username and password, right? Those are both “something you know”. What if a bad guy browses one of the many collections of leaked credentials (*usernames with passwords*) and finds yours? Now the bad guy has your username and password. They log into your account and lock you out. They own it. They can do whatever they want until someone figures out what happened, which could take hours, days, weeks, or even months.
 
