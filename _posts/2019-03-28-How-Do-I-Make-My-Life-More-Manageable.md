@@ -7,7 +7,7 @@ description: Life gets busy. We're doing too much. How can we make it more manag
 
 ---
 
-At various times, our lives get busy. Obligations creep in. We say ‘yes’ more than we say ‘no. Suddenly, our days are packed and we don’t know what happened. 
+At various times, our lives get busy. Obligations creep in. We say ‘yes’ more than we say ‘no‘. Suddenly, our days are packed and we don’t know what happened. 
 
 Fruit trees have the same problem. I know you’re thinking, huh? But stay with me. 
 
