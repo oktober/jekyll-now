@@ -12,4 +12,4 @@ Let’s talk about it. You’ll be surprised to find how many other people feel 
 
 Presented at:
 
-- [OpenWest 2015](https://www.youtube.com/watch?v=akAeIYdCN7s){target:blank}
+- [OpenWest 2015](https://www.youtube.com/watch?v=akAeIYdCN7s){:target="_blank"}
