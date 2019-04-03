@@ -1,7 +1,7 @@
 ---
 title: HTTPS All The Things!
 sub-title: Protect Your Website And Your Users
-slides: 
+slides: /pdfs/https-all-the-things.pdf
 ---
 
 You take pride in building safe and secure websites. But are you doing everything you can to keep your users safe and maintain the integrity of your hard work? 
