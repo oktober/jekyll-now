@@ -1,6 +1,6 @@
 ---
 title: Impostor Syndrome
-sub-title: You're Not Alone
+sub-title: You're not alone
 slides: https://www.slideshare.net/oktobercode/impostor-syndrome-youre-not-alone-focus-group-for-openwest-2015
 ---
 
