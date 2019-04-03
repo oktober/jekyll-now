@@ -7,9 +7,7 @@ title: Talks
 <ul>
   {% for talk in site.talks %}
     <li>
-      <h2>{{ talk.title }}</h2>
-      <h3>{{ talk.sub-title }}</h3>
-      <p>{{ talk.content | markdownify }}</p>
+      <h2><a href="{{ talk.url }}">{{ talk.title }} - </a>{{ talk.sub-title }}</h2>
     </li>
   {% endfor %}
 </ul>
