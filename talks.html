@@ -1,0 +1,15 @@
+---
+layout: default
+title: Talks
+---
+<h1>Talks</h1>
+
+<ul>
+  {% for talk in site.talks %}
+    <li>
+      <h2>{{ talk.title }}</h2>
+      <h3>{{ talk.sub-title }}</h3>
+      <p>{{ talk.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
