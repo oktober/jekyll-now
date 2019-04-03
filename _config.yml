@@ -54,6 +54,22 @@ excerpt_separator: <!--more-->
 collections:
   talks:
     output: true
+    
+defaults:
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 #
 # !! You don't need to change any of the configuration flags below !!
