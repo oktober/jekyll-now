@@ -1,6 +1,6 @@
 ---
 title: HTTPS All The Things!
-sub-title: Protect Your Website And Your Users
+sub-title: Protect your website and your users
 slides: /pdfs/https-all-the-things.pdf
 ---
 
