@@ -69,6 +69,6 @@ I see this used as a “solution” to many WAF (*Web Application Firewalls*) ou
 
 We need a better way.
 
-**Moral of the story - _don’t use IP banning_**. At best, it’s a band-aid solution. At worst, it blocks legitimate customers from using your services. And make error messages appropriate. They don’t have to reveal any sensitive information, but don’t make them outrightly misleading. That’s just lazy coding.
+**Moral of the story - _don’t use IP banning_**. At best, it’s a band-aid solution. At worst, it blocks legitimate customers from using your services. **And make error messages appropriate**. They don’t have to reveal any sensitive information, but don’t make them outrightly misleading. That’s just lazy coding.
 
 And yes, I did finally get my coffee. Thanks for asking.
