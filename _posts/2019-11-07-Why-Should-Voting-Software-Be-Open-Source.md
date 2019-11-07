@@ -5,9 +5,9 @@ categories: [Cybersecurity, Musings]
 description: Open source voting software creates trust. So far, our voting systems have been closed/proprietary. We hope everything's counted properly and accurately - but we don't know. Not for sure. With an open source voting solution, we could know and have full trust in our voting system.
 ---
 
-Open source voting software creates trust. A healthy, thriving democracy - *like one we aspire to have* - relies on trust.
+Open source voting software creates trust. A healthy, thriving democracy - *like what we aspire to* - relies on trust.
 
-Currently, our voting systems have been closed (*proprietary*). As citizens, we vote and ***hope*** our vote was accepted. We hope it's accurate and counte. **But we don't know - not for sure.**
+Currently, our voting systems have been closed (*proprietary*). As citizens, we vote and ***hope*** our vote was accepted. We hope it's accurate and counted. **But we don't know - not for sure.**
 
 Because the systems, and the code they run on, is hidden from us.
 
@@ -39,7 +39,7 @@ Hiding your code means malicious people could still find flaws. Then they could 
 It's not foolproof, but it's far better than hiding things and hoping no one finds it.
 
 ## No More "Just Trust Us"
-For years, voting companies have assured us their products are safe and secure. Even when problems arise - like confusing ballots or successful hacking by security researchers - they still hide behind their velvet curtain and tell us "Everything is fine. Trust us."
+For years, voting companies have assured us their products are safe and secure. Even when problems arise - like confusing ballots or successful hacking by security researchers - they hide behind a velvet curtain and tell us "Everything is fine. Trust us."
 
 We should trust them. But **they should earn that trust first**.
 
@@ -47,13 +47,13 @@ We should trust them. But **they should earn that trust first**.
 
 **Being open and honest about security - *the good or bad of it* - is how you earn trust.**
 
-Voting is too valuable. Companies should never ask used to "just trust" them. Trust should be earned and verifiable.
+Voting is too valuable. Companies should never ask us to "just trust" them. Trust should be earned and verifiable.
 
-##Demand Open Source Voting Systems
+## Demand Open Source Voting Systems
 Open source voting is long overdue. But it's not too late.
 
 **If we want an open and transparent democracy, open source voting systems are crucial.**
 
 Don't let the fearmongers scare you. There will be kinks as we transition. And nothing is 100% perfect. But **the benefits far outweight the risks**.
 
-If we want a functional, healthy democracy to pass on to our children, and to our children's children, **an open source, transparent voting system is required**. Let's make it happen.
+If we want a functional, healthy democracy to pass on to our children, and to our children's children, **an open source, transparent voting system is required**. No more wasting time. Let's make it happen.
