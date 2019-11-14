@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Can Be Successful - Even With Anxiety
-categories: [Small Business, Musings]
+categories: [Small-Business, Musings]
 description: Looking online for help with my anxiety, I found many people suggesting I should just give up now. I couldn't be a business owner with anxiety. I'm calling bullshit and I think anyone can be successful in any role - even with anxiety.
 ---
 
