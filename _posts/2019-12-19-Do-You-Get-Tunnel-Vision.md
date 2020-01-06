@@ -7,7 +7,7 @@ description: Ever got so stuck on a problem or lack of time, money, companionshi
 
 I break into websites - with permission, of course.
 
-I’m part of a program where they give you websites to break into {link to hackerone} - so you can learn hacking skills. They tell me how many bugs I’ll find plus a few hints. After that, I’m on my own to try and find them.
+I’m part of [a program where they give you websites to break into](https://www.hackerone.com/){:target="_blank"} - so you can learn hacking skills. They tell me how many bugs I’ll find plus a few hints. After that, I’m on my own to try and find them.
 
 Most days I’ll find one bug. On a really good day I might find 2, maybe more.
 
