@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do You Get Tunnel Vision?
+title: Rest - Does A Body Good
 categories: [Musings]
 description: I struggle with rest. I know breaks are good. I know I need them. Sometimes I have to take them because I get sick - physically or mentally. But even then, I fight against taking a break.
 ---
