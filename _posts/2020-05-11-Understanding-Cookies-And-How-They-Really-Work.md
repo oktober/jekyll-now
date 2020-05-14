@@ -187,3 +187,10 @@ But a Lax setting won’t stop most of the CSRF (Cross-Site Request Forgery) att
 
 ## You Made It!
 Phew, you got all the way to the end. This was a long one, but now you hopefully have a better idea for how cookies work, and their weird little quirks. Use them wisely and understand exactly how they’ll work and how they’re vulnerable when building your web apps.
+
+---
+
+## Sources and Info:
+- [IETF RFC 6265 for HTTP Cookies](https://tools.ietf.org/html/rfc6265 ){:target="_blank"}
+- [MDN Web Docs - Set-Cookie HTTP Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie){:target="_blank"}
+- [Browser compatibility for Cookie Attributes](https://github.com/mdn/browser-compat-data/blob/master/http/headers/set-cookie.json){:target="_blank"}
