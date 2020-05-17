@@ -46,4 +46,4 @@ So avoid this unnecessary risk. **Write good, and secure, code by keeping your c
 
 ---
 
-[Want to see all the currently known vulnerabilities in PHP?](https://www.cvedetails.com/version-list/74/128/1/PHP-PHP.html){"target="_blank"} Yeah, you do.
+[Want to see all the currently known vulnerabilities in PHP?](https://www.cvedetails.com/version-list/74/128/1/PHP-PHP.html){:target="_blank"} Yeah, you do.
