@@ -47,7 +47,7 @@ If they can steal your customer data, they can target your customers to scam the
 4.	Back it up
 5.	Destroy what you don’t need
 
-## Collect As Little Info As You Need
+### Collect As Little Info As You Need
 I know, “need” is a relative term. How about - **collect as little info as you need to provide the product or service to your customers**.
 
 If you operate a salon - do you need customer’s address? If it’s a brick-and-mortar salon, no. If it’s an online store selling hair products, you only need a shipping address.
@@ -58,7 +58,7 @@ Any data you collect must be protected. It’s actually quite difficult to prote
 
 Start by making it easier on yourself. **Only collect the absolute minimum data you need.** When a malicious hacker gets in and steals it, you’ll be glad it was minimal - especially if/when customers start suing you or you get hit with a fine.
 
-## Protect Data In Transit
+### Protect Data In Transit
 When you collect data, it moves from the customer to wherever you’ll ultimately store it.
 
 Maybe it’s a piece of paper the customer hands you which you then you store in a (hopefully secured) filing cabinet.
@@ -75,7 +75,7 @@ It could also be data you collect directly from the customer’s mouth that an e
 
 **Protect your business, and your customers, by adequately protecting their data while in transit.**
 
-## Protect Data At Rest
+### Protect Data At Rest
 What does this mean?
 
 If you’re familiar with databases and how we store data - it’s that. **When you collect data, you store it either in the secured filing cabinet, a vault under a mountain, or a secured database** - or any combination of these and other options.
@@ -95,14 +95,14 @@ Electronic data must also be secured.
 - Enable logging so you know when someone accessed it and if any was copied outside your network
 - And definitely train your employees on phishing/social engineering, not sharing accounts, and keeping devices and software updated
 
-## Back Data Up
+### Back Data Up
 We all know this. Make frequent backups of your data and securely store them - preferably disconnected from a device and with offsite copies.
 
 **Create a backup process that happens regularly and ensure your backups are encrypted.**
 
 Do you have a recovery plan for restoring your systems? What about data being unavailable like data stored online when the internet’s down or finding out your data is corrupted? These are things to think about when creating a backup and recovery process for your, and your customer’s, data.
 
-## Destroy What You Don’t Need
+### Destroy What You Don’t Need
 This might be the hardest part for companies - especially when we try to define “need”.
 
 Do you need all customer records going back 10 or 20 years? What about inactive customers? 
