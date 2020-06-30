@@ -17,7 +17,7 @@ I think there is such a thing as ‘enough’ with everything - including money,
 
 <!--more-->
 
-Consider the company Basecamp - sure, they make a great product, but so do a lot of other companies. Basecamp, the company, is different than most because they have a very specific philosophy about growth*.
+Consider the company [Basecamp](https://basecamp.com/){:target="_blank"} - sure, they make a great product, but so do a lot of other companies. Basecamp, the company, is different than most because they have a very specific philosophy about growth*.
 
 *_How do I know about their mindset around growth? I [listen to their podcast](https://rework.fm/){:target="_blank"}, [read their blog](https://m.signalvnoise.com/){:target="_blank"}, and [read their books](https://basecamp.com/books){:target="_blank"}. You should check them out!_
 
@@ -39,7 +39,7 @@ I had never thought of my salary that way before. I mean, I have a number I need
 
 On the podcast, Jason talked about what can happen if you haven’t thought about what is ‘enough’ income for you to make. At some point you’ll hopefully hit your minimum amount to live on. Eventually, you might hit your stretch goal as well, then what? Do you keep pushing yourself to make more? What sacrifices and choices will you have to make? What are the physical, mental, and emotional consequences? Do you want to take those on?
 
-If you’re like me, you wouldn’t stop and think through this all. Once I hit a goal, my next step is to make another goal to push forward. It’s just what I do. I think it’s something our culture has trained us to do.
+If you’re like me, you wouldn’t stop and think it through at all. Once I hit a goal, my next step is to make another goal to push forward. It’s just what I do. I think it’s something our culture has trained us to do.
 
 **But what if there was a point where you did enough?** You made enough, were satisfied enough, just felt like it was enough? For me, that kind of sounds amazing, like I could finally relax and/or start focusing on something else in my life.
 
