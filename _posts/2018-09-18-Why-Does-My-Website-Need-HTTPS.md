@@ -27,7 +27,7 @@ In 2014, [Google added HTTPS as a ranking factor](https://webmasters.googleblog.
 
 
 2. __Browsers show your site as secure__ 
-When your site is secure, customers can trust you. Where there's trust, there's a relationship. Where there's a relationship, there are continual sales. ![Screenshot of secure github URL in browser with lock](/images/secure-website.png) 
+When your site is secure, customers can trust you. Where there's trust, there's a relationship. Where there's a relationship, there are continual sales. ![Screenshot of secure github URL in browser with lock](/assets/images/secure-website.png) 
 
 3. __Your customer's data will be more secure__
 When your customer clicks on something, enters information, or logs in and out - those actions will be encrypted (_masked or obscured_). This prevents ["man in the middle" attacks](https://www.makeuseof.com/tag/man-middle-attack-security-jargon-explained/){:target="_blank"}. You __must use HTTPS if you gather ANY data from customers__ on your site (email, usernames, passwords, addresses, phone numbers, location, etc.)

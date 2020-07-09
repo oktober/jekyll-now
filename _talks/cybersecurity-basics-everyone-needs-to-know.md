@@ -1,7 +1,7 @@
 ---
 title: Cybersecurity Basics Everyone Needs To Know
 sub-title: How to arm and defend yourself against attacks 
-slides: /pdfs/cybersecurity-basics-everyone-needs-to-know.pdf
+slides: /assets/pdfs/cybersecurity-basics-everyone-needs-to-know.pdf
 ---
 
 Your accounts and personal information aren't safe. They haven’t been for a while. In 2018 alone, over 900 billion records were leaked in data breaches. That’s your information out there. 

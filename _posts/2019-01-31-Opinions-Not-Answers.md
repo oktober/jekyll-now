@@ -14,7 +14,7 @@ And I think you probably feel inadequate most of the time too.
 <!--more-->
 
 Go online for 2 seconds and you're inundated with "solutions" to solve all your problems. 
-![Google Search of "How To Be"](/images/how-to-be-search.png)
+![Google Search of "How To Be"](/assets/images/how-to-be-search.png)
 
 Need to be prettier? Here's 5,000 YouTube videos to show you how.
 

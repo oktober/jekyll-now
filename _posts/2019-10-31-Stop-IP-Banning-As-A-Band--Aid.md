@@ -15,7 +15,7 @@ You can’t add gift cards in their mobile app. Fine. Annoying, but fine. I can 
 
 So I walked over to my computer and pulled up their website. I entered my username and password. What I get back is an error message - my username or password is incorrect.
 
-![Screenshot of error saying 'Sign in unsuccessful. The email or password you entered is not valid. Please try again.'](/images/sign-in-error.jpg)
+![Screenshot of error saying 'Sign in unsuccessful. The email or password you entered is not valid. Please try again.'](/assets/images/sign-in-error.jpg)
 
 I could log in with my username and password on the mobile app. Why wasn’t it working here?
 
@@ -33,7 +33,7 @@ Everything looked correct. So that wasn’t the problem - and that error message
 
 What’s more, it says my “fingerprint” or "reputation" was denied.
 
-![Screenshot of JSON response from server showing {"type":"reputation","messageId":"requestDeniedError"}](/images/request-denied-error.jpg)
+![Screenshot of JSON response from server showing {"type":"reputation","messageId":"requestDeniedError"}](/assets/images/request-denied-error.jpg)
 
 What’s a fingerprint (or reputation), you might ask? It’s when the company compiles a couple of different pieces of information about your account and system. They might use your IP address, your specific browser and version number, browser plugins you have installed, and other info. They compile this into a mathematical representation of you they call a “fingerprint”. It’s a way of tracking you across the web and another tool companies use to identify you as the legitimate owner of the account.
 
