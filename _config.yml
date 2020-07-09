@@ -109,3 +109,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Don't show future posts by default
+# Must set date field in the post front matter {date: 2075-01-01 00:00:00}
+future: false
