@@ -8,7 +8,7 @@ permalink: /terms-privacy/
 
 Use of: https://staciefarmer.com “Stacie Farmer”
 
-This policy is valid from the 28th of September, 2018
+This policy is valid from the 14th of July, 2020
 
 The reading of all information on staciefarmer.com is of your own free will. If you do not accept these Terms and Conditions, you should cease use of this website immediately.
 
@@ -28,7 +28,7 @@ The opinions expressed by any Third Parties are their own and do not represent t
 
 All the information provided on staciefarmer.com is for general information and entertainment purposes only and is the expressed opinion of myself, Stacie and not others. This includes (but is not limited to) my membership organizations and/or employers.
 
-I am not providing any medical, legal, professional advice. You are taking all the provided information at your own risk.
+**I am not providing any medical, legal, professional advice.** You are taking all the provided information at your own risk.
 
 Under no circumstances will I be liable for any loss or damage (including without limitation indirect or consequential loss or damage) or any loss or damage whatsoever arising from loss of data or profits arising out of or in connection with the use of this website.
 
@@ -40,14 +40,19 @@ Although I try to keep staciefarmer.com running 24 hours a day, 365 days a year,
 
 Any personal and/or contact information provided to me will be kept private. You will not be spammed in any way and I will not sell or disclose your information to any other companies.
 
+<!---
 I am not responsible for the privacy practices of any of my advertisers or blog commenters.
+--->
 
 # RESERVE RIGHTS
 
 I, Stacie Farmer, reserve the right to change the focus of the blog, to shut it down, sell it, change the terms of use (go to a paid platform) at my own discretion.
 
+<!---
 I also reserve the rights to edit or delete any comments submitted to staciefarmer.com without notice due to: comments deemed to be spam or questionable spam, comments including profanity, comments containing language or concepts that could be deemed offensive, or comments that attack a group or person individually.
+--->
 
+<!---
 # ADVERTISERS AND SPONSORS
 
 I am not responsible for the actions of my advertisers or sponsors. If you purchase a product or service based upon a link from my website, you must take action with that company to resolve any issues, not Stacie Farmer.
@@ -55,6 +60,7 @@ I am not responsible for the actions of my advertisers or sponsors. If you purch
 Any product, claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 To help the website expand and to cover costs of running the site, some advertising and affiliate links are run on my website. Affiliate links earn me a small commission on any purchases made when visiting the affiliate after clicking on one of these links. I will do my absolute best to only provide you with information about products that I truly believe in. All reviews on my website will be presented honestly and I will disclose whether I will be receiving any commissions or products for free.
+--->
 
 # LETTERS TO THE EDITOR
 
@@ -80,7 +86,9 @@ All of this information is not linked to anything that is personally identifiabl
 
 ## 2. Cookies
 
-We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, we have no access or control over their cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+Currently we do not use any cookies at staciefarmer.com.
+
+<!--- We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, we have no access or control over their cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
 If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
 
@@ -89,10 +97,12 @@ If you wish to disable cookies you may do so through your web browser options. I
 -   Google Analytics Cookie
     -   You may read more about [Google Analytics and how they use cookies here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).
 
+
 ## 3. Other
 
 Users might be asked to subscribe to our newsletter or to receive free products, by providing name and email address to receive communication from us. We use a secure opt-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at yourprivacy[at]staciefarmer[dot]com.
+--->
 
-_Last Updated:_ September 28, 2018
+_Last Updated:_ July 14, 2020
