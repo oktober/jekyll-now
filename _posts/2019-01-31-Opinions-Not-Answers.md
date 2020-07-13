@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opinions, Not Answers
-categories: Musings
+tag: musings
 description: 
 ---
 

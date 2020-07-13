@@ -2,7 +2,7 @@
 
 layout: post
 title: How Do I Make My Life More Manageable?
-categories: [Musings]
+tag: musings
 description: Life gets busy. We're doing too much. How can we make it more manageable and simplify? To do that, you are going to think like a gardener.
 
 ---

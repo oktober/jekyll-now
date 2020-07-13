@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rest - Does A Body Good
-categories: [Musings]
+tag: musings
 description: I struggle with rest. I know breaks are good. I know I need them. Sometimes I have to take them because I get sick - physically or mentally. But even then, I fight against taking a break.
 ---
 

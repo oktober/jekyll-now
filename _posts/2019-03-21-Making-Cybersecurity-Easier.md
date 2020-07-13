@@ -2,7 +2,7 @@
 
 layout: post
 title: Making Cybersecurity Easier
-categories: [Cybersecurity]
+tag: cybersecurity
 description: Cybersecurity can feel overwhelming. There's too much to know and to do. But it doesn't have to be that way. Find out how you can make cybersecurity easier and start being more secure online.
 
 ---

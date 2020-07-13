@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creative Safe Spaces
-categories: [Musings]
+tag: musings
 description: Where do we go to create where fear and doubt won't plague us? How do we find our unique voice without worrying what others think?
 ---
 My daughter can sit and draw for hours.

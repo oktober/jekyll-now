@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons To Create A Facebook Business Page
-categories: [Small-Business]
+tag: small-business
 description: Are your customers struggling to find your business online? Discover if a Facebook business page is right for you and how it can help your business.
 ---
 

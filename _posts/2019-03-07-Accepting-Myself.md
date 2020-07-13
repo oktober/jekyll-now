@@ -2,7 +2,7 @@
 
 layout: post
 title: Accepting Myself
-categories: Musings
+tag: musings
 description: Just because I have depression, why must I constantly feel not good "enough"? Why can't how I am, awful feelings and all, be right? Can I accept myself for who I am, right at this moment?
 
 ---

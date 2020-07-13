@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Speech and Emotions
-categories: [Musings]
+tag: musings
 description: Giving my first Toastmasters speech was tough, but I did it. I received some advice that really made me think.
 ---
 

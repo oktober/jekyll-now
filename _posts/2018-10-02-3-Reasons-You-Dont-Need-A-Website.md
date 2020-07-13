@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons You Don't Need A Website
-categories: [Small-Business]
+tag: small-business
 description: Every business has a website now or so it seems. You figure your business needs one too. But maybe not. Discover if you truly need a website for your business.
 ---
 

@@ -2,7 +2,7 @@
 
 layout: post
 title: Have Fun and Break Shit
-categories: [Musings]
+tag: musings
 description: Don't you want to rediscover the curiosity and wonder you had as a kid? Find it by letting loose and breaking some shit.
 
 ---

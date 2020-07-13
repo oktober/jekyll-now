@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mitigate Future Risk with Savings
-categories: [Musings]
+tag: musings
 description:
 ---
 

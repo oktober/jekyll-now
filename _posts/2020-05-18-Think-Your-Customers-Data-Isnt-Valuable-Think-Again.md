@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Think Your Customer's Data Isn't Valuable? Think Again
-categories: [Tech, Cybersecurity]
+tags: tech cybersecurity
 description: There’s was an interesting set of data recently breached on the dark web. Apparently, DynaRisk (a security research company), found malicious hackers discussing the breached data in an online forum and it was hundreds of thousands of records on plus-size women. Not your usual set of information.
 ---
 

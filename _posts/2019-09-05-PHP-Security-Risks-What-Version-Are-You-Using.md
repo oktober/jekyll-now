@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP Security Risks - What Version Are You Using?
-categories: [Cybersecurity]
+tags : cybersecurity tech
 description: What version of PHP are you using? Do you know all the vulnerabilities in your PHP version and what mitigations do you have in place? Why does it even matter??
 ---
 

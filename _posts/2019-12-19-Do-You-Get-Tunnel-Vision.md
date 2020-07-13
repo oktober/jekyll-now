@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Get Tunnel Vision?
-categories: [Musings]
+tag: musings
 description: Ever got so stuck on a problem or lack of time, money, companionship? Obsessed over it to the point you're problem was getting worse? Me too. We've got tunnel vision. I'll explain what it is and how the cure is the opposite of your instincts.
 ---
 

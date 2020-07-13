@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Enough?
-categories: [Musings]
+tags: musings
 description: How much is enough money for you to make in a year? What do I mean ‘enough’? Is there even such a thing as ‘enough’ money? Isn’t more always better?
 ---
 

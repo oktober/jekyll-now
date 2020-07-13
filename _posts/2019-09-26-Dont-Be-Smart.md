@@ -2,7 +2,7 @@
 
 layout: post
 title: Don't Be Smart
-categories: [Musings]
+tag: musings
 description: Being smart is overrated and we need to stop praising people for it. Instead, focus on practicing. Focus on improving your skills over time and getting better - not being smart.
 
 ---

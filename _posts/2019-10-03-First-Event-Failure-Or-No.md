@@ -2,7 +2,7 @@
 
 layout: post
 title: First Event - Failure or No?
-categories: [Cybersecurity, Musings]
+tags: cybersecurity musings
 description: I finally scheduled my first Cybersecurity Basics talk. It did not go at all as planned. But was it a failure? 
 
 ---

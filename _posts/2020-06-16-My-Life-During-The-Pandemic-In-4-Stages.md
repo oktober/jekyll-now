@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Life During The Pandemic - In 4 Stages
-categories: [Musings]
+tag: musings
 description: I’ve been putting off writing, and publishing, anything about how the Coronavirus Pandemic has affected me. Partly because I’m riding an emotional rollercoaster and partly because of how vulnerable I feel. But I think I’m ready now.
 ---
 

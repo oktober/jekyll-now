@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Cookies and How They Really Work
-categories: [Tech, Cybersecurity]
+tags: tech cybersecurity
 description: Cookies are complicated, but still commonly used for keeping users logged in to a site. Learn a little more about the nuances behind setting cookies and what you're really doing when you set that attribute.
 
 ---
