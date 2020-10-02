@@ -91,7 +91,7 @@ Let's get started.
 
 13. Open up terminal and run: `sudo apt update`
 	- Type your password when prompted
-	- Hit 'Enter'
+	- Press the Enter/Return key
 
 	![Terminal screen with `sudo apt update` run and asking for password](/assets/images/laravel-on-mint-post/update-1.png)
 
