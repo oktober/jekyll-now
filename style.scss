@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 19px/1.6 $defaultBodyFont;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -31,21 +31,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $defaultHeadingFont;
+  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.4;
-  margin: 1.7em 0 15px;
+  margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
     line-height: 1.4;
   }
-}
-
-article > h1 {
-  margin-top: 1em;
 }
 
 h1 {
@@ -56,40 +51,29 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
-}
-
-h2.sub-title {
-  margin: 0;
+  font-size: 26px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h4 {
-  font-size: 18px;
-  color: $gray;
+  font-size: 22px;
 }
 
 p {
   margin: 15px 0;
 }
 
+/* Spread out the paragraphs a little more -> if a p follows a p, add some margin */
 p + p {
-  margin-top: 30px;
-}
-
-p.post-meta {
-  line-height: 1;
-  margin: -10px 0 0 0;
-  font-style: italic;
-  font-size: 110%;
+  margin-top: 20px;
 }
 
 a {
   color: $blue;
-  text-decoration: none;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -176,6 +160,9 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  a {
+    text-decoration: none;
+  }
 
   @include mobile {
     text-align: center;
@@ -231,21 +218,15 @@ img {
 
 nav {
   float: right;
-  margin-top: 9px;
+  margin-top: 30px;
   font-family: $defaultHeadingFont;
-  font-size: 18px;
+  font-size: 20px;
   text-align: right;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
-  }
-
-  a.page {
-    font-family: $defaultBodyFont;
-    color: $gray;
     font-size: 16px;
   }
 
@@ -264,12 +245,18 @@ nav {
 }
 
 //
-// .main
+// blog
 //
 
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+}
+
+.post {
+  h2 {
+    margin-bottom: 0;
+  }
 }
 
 .posts > .post:last-child {
@@ -296,6 +283,12 @@ nav {
   }
 }
 
+.entry {
+  p:first-child {
+    margin-top: 0;
+  }
+}
+
 .page_number {
   margin: 0 4em;
 }
@@ -303,6 +296,22 @@ nav {
 .previous, .next {
   font-weight: bold;
 }
+
+//
+// talks
+//
+
+h1.talk-title {
+  margin-bottom: 0;
+}
+
+h2.talk-subtitle {
+  margin: 0;
+}
+
+//
+// footer
+//
 
 .wrapper-footer {
   margin-top: 50px;
