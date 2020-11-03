@@ -46,6 +46,7 @@ baseurl: ""
 
 excerpt_separator: <!--more-->
 
+collections_dir: collections
 collections:
   talks:
     output: true
