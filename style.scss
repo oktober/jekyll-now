@@ -119,8 +119,10 @@ img {
 }
 
 .date {
+  font-size: 0.9rem;
   font-style: italic;
   color: $gray;
+  margin-bottom: 15px;
 }
 
 // Specify the color of the selection
@@ -265,6 +267,11 @@ nav {
 }
 
 .post {
+  .post-title {
+    margin-bottom: 0;
+    line-height: 1;
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
