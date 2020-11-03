@@ -1,8 +1,15 @@
 ---
 layout: post
-title: OWASP Top Ten - 1 Injection
+title: OWASP Top 10 - 1 Injection
 tags: tech
 description: 
+thumbnail: /1-injection/thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@sarabakhshi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText
+thumbnail-creator: Sara Bakhshi
+thumbnail-site: https://unsplash.com/s/photos/inject?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText
+thumbnail-site-name: Unsplash
+image-alt: Needles sticking out of an apple
+date: 2020-10-28
 ---
 
 If you want to learn about Web Application Security, you're going to need to know the OWASP Top 10 - **a list of the most critical security risks to web applications** compiled by the [OWASP *(Open Web Application Security Project)* Foundation](https://owasp.org/){:target="_blank"}.

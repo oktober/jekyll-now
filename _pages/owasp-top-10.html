@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: /owasp-top-10/
+title: OWASP Top Ten
+---
+<h1>OWASP Top 10</h1>
+
+<div class="article-list">
+  {% for vuln in site.owasp-top-10 %}
+    <div class="article-link">
+
+	    <a href="{{ site.baseurl }}{{ vuln.url }}" class="thumbnail"><img src="/assets/images/owasp-top-10{{ vuln.thumbnail }}" alt="{{ vuln.image-alt }}"></a>
+	    <span class="thumbnail-attribution">Photo by <a href="{{ vuln.thumbnail-creator-link }}" target="_blank">{{ vuln.thumbnail-creator }}</a> on <a href="{{ vuln.thumbnail-site }}" target="_blank">{{ vuln.thumbnail-site-name }}</a></span>
+	    <h2 class="article-link-title"><a href="{{ site.baseurl }}{{ vuln.url }}">{{ vuln.title }}</a></h2>
+
+      <div class="excerpt">
+        {{ vuln.excerpt | truncate: 156 }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<!-- if items will not fit an entire row of 3 on bottom, add filler div -->
+
+<!--<div class="filler">
+    </div>-->

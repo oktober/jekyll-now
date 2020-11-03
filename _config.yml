@@ -50,6 +50,8 @@ collections_dir: collections
 collections:
   talks:
     output: true
+  owasp-top-10:
+    output: true
     
 defaults:
   - scope:

@@ -298,6 +298,48 @@ nav {
 }
 
 //
+// OWASP Top 10
+//
+
+.article-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  row-gap: 40px;
+}
+
+.article-link, .filler {
+  width: 270px;
+  height: 100%;
+}
+
+.article-link img {
+  width: 270px;
+  height: 270px;
+}
+
+.thumbnail-attribution {
+  font-size: 0.7rem;
+  font-style: italic;
+}
+
+.article-link-title {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.excerpt {
+  font-size: 1.1rem;
+}
+
+.thumbnail {
+  img {
+    border-radius: 5px;
+  }
+  
+}
+
+//
 // talks
 //
 
