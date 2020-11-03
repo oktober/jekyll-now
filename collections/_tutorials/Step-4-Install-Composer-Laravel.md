@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Step 4 - Install Composer and Laravel
-tags: tech tutorial
+order: 5
+tags: mint-laravel
 description: 
+date: 2020-09-26
 ---
 
 **Tutorial: How to Install Laravel 7 on VirtualBox VM Running Linux Mint 19**

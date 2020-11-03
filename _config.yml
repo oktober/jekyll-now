@@ -52,6 +52,9 @@ collections:
     output: true
   owasp-top-10:
     output: true
+  tutorials:
+    output: true
+    sort_by: order
     
 defaults:
   - scope:

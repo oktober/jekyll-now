@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Step 2 - Install Linux Mint (19) and Run Updates
-tags: tech tutorial
+order: 3
+tags: mint-laravel
 description: 
+date: 2020-09-26
 ---
 
 **Tutorial: How to Install Laravel 7 on VirtualBox VM Running Linux Mint 19**
@@ -106,4 +108,4 @@ Let's get started.
 
 ## Next Steps
 
-Continue on to the next post - [Install MySQL and PHP 7.4]({% post_url 2020-09-29-Step-3-Install-MySQL-PHP %})
+Continue on to the next post - [Install MySQL and PHP 7.4]({% link _tutorials/Step-3-Install-MySQL-PHP.md %})

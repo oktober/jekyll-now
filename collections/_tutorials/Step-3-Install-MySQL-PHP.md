@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Step 3 - Install MySQL and PHP 7.4 + Extensions
-tags: tech tutorial
+order: 4
+tags: mint-laravel
 description: 
+date: 2020-09-26
 ---
 
 **Tutorial: How to Install Laravel 7 on VirtualBox VM Running Linux Mint 19**
@@ -122,4 +124,4 @@ Linux Mint 19.3 only comes with PHP 7.2, but Laravel 7 needs PHP version 7.4. To
 
 ## Next Steps
 
-Continue on to the next post - [Install Composer and Laravel]({% post_url 2020-09-30-Step-4-Install-Composer-Laravel %})
+Continue on to the next post - [Install Composer and Laravel]({% link _tutorials/Step-4-Install-Composer-Laravel.md %})

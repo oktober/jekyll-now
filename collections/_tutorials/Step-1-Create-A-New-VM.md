@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Step 1 - Create a New VM (Virtual Machine)
-tags: tech tutorial
+order: 2
+tags: mint-laravel
 description: 
+date: 2020-09-26
 ---
 
 **Tutorial: How to Install Laravel 7 on VirtualBox VM Running Linux Mint 19**
@@ -118,4 +120,4 @@ Once you've got VirtualBox installed and opened, you can create your virtual mac
 
 ## Next Steps
 
-Continue on to the next post - [Start the virtual machine and install Linux Mint, then run updates]({% post_url 2020-09-28-Step-2-Install-Mint-Run-Updates %})
+Continue on to the next post - [Start the virtual machine and install Linux Mint, then run updates]({% link _tutorials/Step-2-Install-Mint-Run-Updates.md %})
