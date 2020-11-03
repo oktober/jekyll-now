@@ -24,10 +24,12 @@ Let's get started.
 
 	*Your code might look slightly different since you'll be installing a newer version of Composer. This should not cause any problems. **Make sure you copy the code from [Composer's download page](https://getcomposer.org/download/){:target="_blank"} to get the latest version**.*
 	
-	`php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+	``` shell
+	php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
 	php -r "if (hash_file('sha384', 'composer-setup.php') === 'e5325b19b381bfd88ce90a5ddb7823406b2a38cff6bb704b0acc289a09c8128d4a8ce2bbafcd1fcbdc38666422fe2806') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
 	php composer-setup.php
-	php -r "unlink('composer-setup.php');"`
+	php -r "unlink('composer-setup.php');"
+	```
 
 	![Terminal window with the Composer installer code](/assets/images/laravel-on-mint-post/composer-1.png)
 

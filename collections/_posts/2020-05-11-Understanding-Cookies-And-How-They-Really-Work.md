@@ -27,17 +27,20 @@ Essentially, this is what happens:
   1. Browser sends an HTTP Request to a website you’ve just logged in to
   2. Web server responds with the web page and includes a Set-Cookie in the HTTP Header, like this:
 
-    HTTP/1.0 200 OK
-    Content-type: text/html
-    Set-cookie: theme=light
+```
+HTTP/1.0 200 OK
+Content-type: text/html
+Set-cookie: theme=light
+```
     
   3. Browser creates a file for that cookie with those parameters
   4. Every time you visit that website from now on, until the cookie expires, the browser will send the cookie in the header of the HTTP Request, like this:
 
-    GET /index.html HTTP/1.1
-    Host: staciefarmer.com
-    Cookie: theme=light
-
+```
+GET /index.html HTTP/1.1
+Host: staciefarmer.com
+Cookie: theme=light
+```
 
 
 It’s an imperfect system, but it works.
@@ -58,14 +61,18 @@ If you want to change these defaults, the web server needs to set some attribute
 Let’s go through them.
 
 ### Expires
-    Set-Cookie: cookieName=cookieValue; Expires=Wed, Jan 31 2021 22:23:01 GMT;
+```
+Set-Cookie: cookieName=cookieValue; Expires=Wed, Jan 31 2021 22:23:01 GMT;
+```
 
 The Expires attribute tells the browser, “Instead of deleting this cookie at the end of the session, but please store it until this date and time”. 
 
 The server can ask the browser to store the cookie until that date, but ultimately it’s up to the browser. In general, the browser will keep the cookie until this date, but if the browser needs to free up some space or it thinks the Expires date is way too generous, it might get rid of it - so be realistic when setting your Expires date.
 
 ### Max-Age
-    Set-Cookie: cookieName=cookieValue; Max-Age=300;
+```
+Set-Cookie: cookieName=cookieValue; Max-Age=300;
+```
 
 The Max-Age attribute tells the browser how many seconds to please keep the cookie before deleting it. Like before, the browser can delete the cookie before this time to free up memory or if it doesn’t think the cookie should be kept that long.
 
@@ -76,7 +83,9 @@ With these two, it’s an either/or situation. Whichever one you set (either Exp
 As a general guideline, just use the Max-Age attribute unless you need both for backwards-compatibility.
 
 ### Domain
-    Set-Cookie: cookieName=cookieValue; Domain=staciefarmer.com;
+```
+Set-Cookie: cookieName=cookieValue; Domain=staciefarmer.com;
+```
 
 The Domain attribute tells the browser what domain (server) to send this cookie back to when making an HTTP Request. 
 
@@ -109,7 +118,9 @@ Maybe that’s something you want to do, so it’s good to know how the scope an
 **In general though, it’s best to stick with the default behavior when it comes to the cookie domain and avoid using this attribute, if you can.**
 
 ### Path
-    Set-Cookie: cookieName=cookieValue; Path=/blog/;
+```
+Set-Cookie: cookieName=cookieValue; Path=/blog/;
+```
 
 Much like the Domain attribute, the default behavior of the cookie Path is more secure.
 
@@ -136,7 +147,9 @@ I, as an attacker, control staciefarmer.com/attack/ and I want to get that cooki
 Point being, don’t use the Path attribute for security. Know how it works, including its quirks, but don’t rely on this attribute at all to keep your cookies secure.
 
 ### Secure
-    Set-Cookie: cookieName=cookieValue; Secure;
+```
+Set-Cookie: cookieName=cookieValue; Secure;
+```
 
 The Secure attribute tells the browser to only send this cookie over a secure connection - usually meaning HTTPS. 
 
@@ -153,7 +166,9 @@ Keep in mind this advice from the [MDN  Web Docs](https://developer.mozilla.org/
 While we try to ensure encryption by setting the Secure attribute, **confidential information should never be stored in cookies**. Instead, store anonymized data such as large, random nonces, and set realistic expiration dates - all while setting the Secure attribute on your cookies and using HTTPS everywhere.
 
 ### HttpOnly
-    Set-Cookie: cookieName=cookieValue; HttpOnly;
+```
+Set-Cookie: cookieName=cookieValue; HttpOnly;
+```
 
 The HttpOnly attribute is very useful and, like the Secure attribute, should be used. 
 
@@ -162,7 +177,9 @@ This attribute ONLY allows the cookie to be accessed through an HTTP Request, me
 This is a great defense against XSS attacks (specifically for stealing or modifying cookies) and the HttpOnly attribute should be used on your cookies.
 
 ### SameSite
-    Set-Cookie: cookieName=cookieValue; SameSite=Strict;
+```
+Set-Cookie: cookieName=cookieValue; SameSite=Strict;
+```
 
 SameSite is relatively new, but it is supported on all major browsers now. 
 

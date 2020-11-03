@@ -29,7 +29,9 @@ Online, I came across THC Hydra for a good brute forcing tool. If you’re unfam
 
 With this tool, to brute force an HTTP login you’ll use a format like this:
 
-	hydra <IP> -l <USERNAME> -p <PASSWORD> http-post-form “<PATH TO LOGIN PAGE>:<PARAMS AND COOKIES>:<ERROR MESSAGE>”
+``` shell
+hydra <IP> -l <USERNAME> -p <PASSWORD> http-post-form “<PATH TO LOGIN PAGE>:<PARAMS AND COOKIES>:<ERROR MESSAGE>”
+```
 
 The options `-l` and `-p` can vary based on what you’re using. 
 You’ll use:
@@ -56,7 +58,9 @@ This will stop all tries once a successful username/password combination is foun
 
 With a particular web application, I had figured out the username and was trying a list of 10k passwords. I tried the hydra command:
 	
-	hydra 127.0.0.1 -l admin -P passlist.txt http-post-form “/login:username=^USER^&password=^PASS^:Invalid password” -V -o hydra-output.txt -f
+``` shell
+hydra 127.0.0.1 -l admin -P passlist.txt http-post-form “/login:username=^USER^&password=^PASS^:Invalid password” -V -o hydra-output.txt -f
+```
 
 2 different times I ran it and got at least 3 different “successful” logins - meaning Hydra had found 3 separate passwords that would work with the username. I manually checked each password with my known username and each was wrong.
 
@@ -68,7 +72,9 @@ Wfuzz is also a brute force authentication tool, but is specifically designed fo
 
 To brute force a login with HTTP, you’ll use this basic syntax:
 
-	wfuzz -c -w <FILE> -d “<PARAMS>” —hs <ERROR TEXT> <URL>
+``` shell
+wfuzz -c -w <FILE> -d “<PARAMS>” —hs <ERROR TEXT> <URL>
+```
 
 Already you can see how much simpler wfuzz is for HTTP than hydra.
 
@@ -85,7 +91,9 @@ In my case, I knew the username (let’s say it was ‘admin’ for this example
 
 With that info, the command I used looked something like this:
 
-	wfuzz -c -w /usr/share/seclists/Passwords/password-list.txt -d “username=admin&password=FUZZ” —hs “Invalid” http://example.com/login
+``` shell
+wfuzz -c -w /usr/share/seclists/Passwords/password-list.txt -d “username=admin&password=FUZZ” —hs “Invalid” http://example.com/login
+```
 
 After a few thousand passwords, it found the right one! I verified it worked and got my flag. It was great to finally find a tool that worked perfectly for the job - and was free.
 
