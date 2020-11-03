@@ -4,9 +4,9 @@ title: OWASP Top 10 - 1 Injection
 tags: tech
 description: 
 thumbnail: /1-injection/thumbnail.jpg
-thumbnail-creator-link: https://unsplash.com/@sarabakhshi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText
+thumbnail-creator-link: https://unsplash.com/@sarabakhshi
 thumbnail-creator: Sara Bakhshi
-thumbnail-site: https://unsplash.com/s/photos/inject?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText
+thumbnail-site: https://unsplash.com/
 thumbnail-site-name: Unsplash
 image-alt: Needles sticking out of an apple
 date: 2020-10-28

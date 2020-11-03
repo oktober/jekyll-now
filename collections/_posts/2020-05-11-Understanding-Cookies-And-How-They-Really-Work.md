@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Understanding Cookies and How They Really Work
-tags: tech cybersecurity
+tags: tech cybersecurity featured
 description: Cookies are complicated, but still commonly used for keeping users logged in to a site. Learn a little more about the nuances behind setting cookies and what you're really doing when you set that attribute.
-
+thumbnail: /post-thumbnails/understanding-cookies-and-how-they-really-work-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@commonboxturtle
+thumbnail-creator: Conor Brown
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Hand with black gloves pushing a caramel into a warm cookie
 ---
 A cookie is a piece of information that allows the web server to create some sort of “connection” with individual users.
 

@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Useful Tool for Brute Forcing a Login Page
-tag: cybersecurity
+tags: cybersecurity featured
 description: When practicing your ethical hacking skills, sometimes you need a specific tool for the job. When it comes to brute forcing web logins, I found a free and open source tool that works.
-
+thumbnail: /post-thumbnails/useful-tool-for-brute-forcing-a-login-page-thumbnail.jpeg
+thumbnail-creator-link: https://commons.wikimedia.org/wiki/File:Wfuzz.jpeg
+thumbnail-creator: Topapp
+thumbnail-site: https://commons.wikimedia.org/wiki/Main_Page
+thumbnail-site-name: Wikimedia Commons
+image-alt: Screenshot of the Command Line Interface for the Wfuzz tool
 ---
 
 I’ve been working on a CTF to expand my pentesting skills. Often, the challenge will be to brute force the login page to get access. 

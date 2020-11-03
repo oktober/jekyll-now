@@ -1,8 +1,14 @@
 ---
 layout: post
 title: What Is Enough?
-tags: musings
+tags: musings featured
 description: How much is enough money for you to make in a year? What do I mean ‘enough’? Is there even such a thing as ‘enough’ money? Isn’t more always better?
+thumbnail: /post-thumbnails/what-is-enough-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@heftiba
+thumbnail-creator: Toa Heftiba
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of two people's feet while sitting on a mountain
 ---
 
 How much is enough money for you to make in a year?
