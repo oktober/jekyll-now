@@ -113,6 +113,10 @@ img {
   max-width: 100%;
 }
 
+hr {
+  color: $lightGray;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -373,7 +377,7 @@ nav {
   }
 
   li:not(:last-child) {
-    border-bottom: 1px solid $gray;
+    border-bottom: 1px solid $lightGray;
     padding-bottom: 1rem;
   }
 }
