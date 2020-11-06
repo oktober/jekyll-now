@@ -350,12 +350,32 @@ nav {
 // talks
 //
 
-h1.talk-title {
-  margin-bottom: 0;
-}
+.talks {
+  list-style-type: none;
+  padding-left: 0;
 
-h2.talk-subtitle {
-  margin: 0;
+  h2 {
+    margin-bottom: 0;
+  }
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  p {
+  margin-top: 0;
+  }
+
+  .presented {
+    font-size: 1rem;
+    font-style: italic;
+  }
+
+  li:not(:last-child) {
+    border-bottom: 1px solid $gray;
+    padding-bottom: 1rem;
+  }
 }
 
 //

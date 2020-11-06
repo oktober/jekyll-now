@@ -5,10 +5,24 @@ title: Talks
 ---
 <h1>Talks</h1>
 
-<ul>
+<ul class="talks">
   {% for talk in site.talks %}
     <li>
-      <h3><a href="{{ talk.url }}">{{ talk.title }} - {{ talk.sub-title }}</a></h3>
+
+      <h2>{{ talk.title }}</h2>
+      <h3>{{ talk.sub-title }}</h3>
+      <p class="presented">Presented at <a href="{{ talk.conference-link }}" target="_blank">{{ talk.conference-name }}</a></p>
+
+      {{ talk.content }}
+
+      {% if talk.slides %}
+      	<p><a href="{{ talk.slides }}" target="_blank">View Slides</a></p>
+      {% endif %}
+
+      {% if talk.recording %}
+      	<p><a href="{{ talk.recording }}" target="_blank">Watch Presentation</a></p>
+      {% endif %}
+
     </li>
   {% endfor %}
 </ul>
