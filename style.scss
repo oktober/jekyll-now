@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 1.1em/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -44,31 +44,26 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 1.7em;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 1.5em;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 1.4em;
 }
 
 h4 {
-  font-size: 22px;
+  font-size: 1.25em;
 }
 
 p {
-  margin: 15px 0;
-}
-
-/* Spread out the paragraphs a little more -> if a p follows a p, add some margin */
-p + p {
-  margin-top: 20px;
+  margin: 1.25rem 0;
 }
 
 a {
@@ -81,8 +76,8 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
+  margin: 0.95rem 0;
+  padding-left: 1.7rem;
 }
 
 ul {
@@ -126,7 +121,7 @@ hr {
   font-size: 0.9rem;
   font-style: italic;
   color: $gray;
-  margin-bottom: 15px;
+  margin-bottom: 0.95rem;
 }
 
 // Specify the color of the selection
@@ -160,11 +155,11 @@ hr {
 //
 
 .wrapper-masthead {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 1.25rem 0;
   border-bottom: 1px solid $lightGray;
   a {
     text-decoration: none;
@@ -179,7 +174,7 @@ hr {
   float: left;
   width: 70px;
   height: 100%;
-  margin-right: 15px;
+  margin-right: 0.6rem;
 
   @include mobile {
     float: none;
@@ -208,43 +203,43 @@ hr {
   cursor: pointer;
   font-family: $defaultHeadingFont;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 1.6em;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 0.95em;
 
-  @include mobile {
+  /*@include mobile {
     margin: 3px 0;
-  }
+  }*/
 }
 
 nav {
   float: right;
-  margin-top: 30px;
+  margin-top: 0.6rem;
   font-family: $defaultHeadingFont;
-  font-size: 20px;
+  font-size: 1.15em;
   text-align: right;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 0.5rem;
     display: block;
-    font-size: 16px;
+    font-size: 0.9em;
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 1.3rem;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
-      margin: 0 10px;
+      margin: 0 0.2rem;
       color: $blue;
     }
   }
@@ -281,7 +276,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 1.3em;
     font-style: italic;
   }
 
@@ -316,7 +311,7 @@ nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  row-gap: 40px;
+  row-gap: 2.5rem;
 }
 
 .article-link, .filler {
