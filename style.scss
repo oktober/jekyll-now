@@ -260,11 +260,6 @@ nav {
   }
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
 .post {
   .post-title {
     margin-bottom: 0;
@@ -295,12 +290,24 @@ nav {
   }
 }
 
-.page_number {
-  margin: 0 4em;
-}
+.pagination {
+  margin-top: 1.6em;
+  display: flex;
+  justify-content: space-between;
 
-.previous, .next {
-  font-weight: bold;
+  .page_number {
+    margin: 1.1rem 0;
+  }
+
+  .previous, .next {
+    display: inline-block;
+    width: 115px;
+    text-align: center;
+    font-weight: bold;
+    background: $lightGray;
+    border-radius: 15px;
+    padding: 1.1rem 1.2rem;
+  }
 }
 
 //
