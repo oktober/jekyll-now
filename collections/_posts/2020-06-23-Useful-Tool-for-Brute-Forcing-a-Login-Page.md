@@ -3,7 +3,7 @@ layout: post
 title: Useful Tool for Brute Forcing a Login Page
 tags: cybersecurity featured
 description: When practicing your ethical hacking skills, sometimes you need a specific tool for the job. When it comes to brute forcing web logins, I found a free and open source tool that works.
-thumbnail: /post-thumbnails/useful-tool-for-brute-forcing-a-login-page-thumbnail.jpeg
+thumbnail: /post-thumbnails/2020-06-23-useful-tool-for-brute-forcing-a-login-page-thumbnail.jpeg
 thumbnail-creator-link: https://commons.wikimedia.org/wiki/File:Wfuzz.jpeg
 thumbnail-creator: Topapp
 thumbnail-site: https://commons.wikimedia.org/wiki/Main_Page

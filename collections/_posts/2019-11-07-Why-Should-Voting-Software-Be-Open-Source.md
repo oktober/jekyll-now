@@ -3,6 +3,12 @@ layout: post
 title: Why Should Voting Software Be Open Source?
 tags: cybersecurity musings
 description: Open source voting software creates trust. So far, our voting systems have been closed/proprietary. We hope everything's counted properly and accurately - but we don't know. Not for sure. With an open source voting solution, we could know and have full trust in our voting system.
+thumbnail: /post-thumbnails/2019-11-07-why-should-voting-be-open-source-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@pkripperprivate
+thumbnail-creator: Parker Johnson
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of an "I Voted" sticker
 ---
 
 Open source voting software creates trust. A healthy, thriving democracy - *like what we aspire to* - relies on trust.

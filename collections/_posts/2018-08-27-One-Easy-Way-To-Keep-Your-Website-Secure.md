@@ -3,6 +3,12 @@ layout: post
 title: One Easy Way To Keep Your Website Secure
 tag: cybersecurity
 description: There's one super easy way to keep your website secure and safe. Make sure you know what it is and how to prevent your website from getting hacked.
+thumbnail: /post-thumbnails/2018-08-27-one-easy-way-to-keep-your-website-secure-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@vmxhu
+thumbnail-creator: Szabo Viktor
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of iPhone updating
 ---
 
 This one thing - you already know how to do it...for the most part.

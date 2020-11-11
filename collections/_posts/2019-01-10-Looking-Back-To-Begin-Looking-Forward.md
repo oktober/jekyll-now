@@ -3,6 +3,12 @@ layout: post
 title: Looking Back To Begin Looking Forward
 tag: musings
 description: Going through my goals invigorates me. I love looking and moving forward. It feels like a new year is a fresh start. It also provides valuable insight. We can imagine the type of life we want to be living, which is important to think about whether we follow through on our resolutions/goals or not.
+thumbnail: /post-thumbnails/2019-01-10-looking-back-to-begin-looking-forward-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@heyphotoshoot
+thumbnail-creator: Heyphotoshoot
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Man looking back over his shoulder
 ---
 
 It's a new year. It almost feels like a new me.

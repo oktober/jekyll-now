@@ -3,6 +3,12 @@ layout: post
 title: Do You Get Tunnel Vision?
 tag: musings
 description: Ever got so stuck on a problem or lack of time, money, companionship? Obsessed over it to the point you're problem was getting worse? Me too. We've got tunnel vision. I'll explain what it is and how the cure is the opposite of your instincts.
+thumbnail: /post-thumbnails/2019-12-19-do-you-get-tunnel-vision-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@jakobsoeby
+thumbnail-creator: Jakob Søby
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture taken from the inside of a tunnel looking through to the other end
 ---
 
 I break into websites - with permission, of course.

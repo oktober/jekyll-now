@@ -4,6 +4,12 @@ layout: post
 title: How Do I Make My Life More Manageable?
 tag: musings
 description: Life gets busy. We're doing too much. How can we make it more manageable and simplify? To do that, you are going to think like a gardener.
+thumbnail: /post-thumbnails/2019-03-28-how-do-i-make-my-life-more-manageable-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@quentintvr
+thumbnail-creator: quentin touvard
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of a healthy looking cherry tree in bloom
 
 ---
 

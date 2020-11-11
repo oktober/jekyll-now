@@ -4,6 +4,12 @@ layout: post
 title: Have Fun and Break Shit
 tag: musings
 description: Don't you want to rediscover the curiosity and wonder you had as a kid? Find it by letting loose and breaking some shit.
+thumbnail: /post-thumbnails/2019-07-31-have-fun-and-break-shit-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@julianhochgesang
+thumbnail-creator: Julian Hochgesang
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Broken plaque on a brick wall
 
 ---
 

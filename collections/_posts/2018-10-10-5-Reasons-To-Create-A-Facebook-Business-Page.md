@@ -3,6 +3,12 @@ layout: post
 title: 5 Reasons To Create A Facebook Business Page
 tag: small-business
 description: Are your customers struggling to find your business online? Discover if a Facebook business page is right for you and how it can help your business.
+thumbnail: /post-thumbnails/2018-10-10-5-reasons-to-create-a-facebook-business-page-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@timbennettcreative
+thumbnail-creator: Tim Bennett
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of the Facebook business page on a smartphone
 ---
 
 Your business just started or has been up and running for a little bit. But customers can't find you.

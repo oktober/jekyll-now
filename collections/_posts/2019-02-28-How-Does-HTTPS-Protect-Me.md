@@ -3,6 +3,12 @@ layout: post
 title: How Does HTTPS Protect Me?
 tag: cybersecurity
 description: HTTPS should be used everywhere online, but why? And how does it protect you? Are there ways it doesn't? Learn about how HTTPS works to secure your communications and why it can't protect you from malware.
+thumbnail: /post-thumbnails/2019-02-28-how-does-https-protect-me-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@gabewasylko
+thumbnail-creator: Gabriel Wasylko
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of locked wall safe
 ---
 
 

@@ -4,7 +4,12 @@ layout: post
 title: First Event - Failure or No?
 tags: cybersecurity musings
 description: I finally scheduled my first Cybersecurity Basics talk. It did not go at all as planned. But was it a failure? 
-
+thumbnail: /post-thumbnails/2019-10-03-first-event-failure-or-no-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@campbellcreates
+thumbnail-creator: Rebecca Campbell
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Firework exploding in a clear night sky
 ---
 
 I scheduled my first Cybersecurity Basics talk last weekend. I set the event up on Eventbrite and advertised on 2 local websites. I marketed it as an overview of basic cybersecurity practices for the average, everyday person. Turns out, convincing an average person to give up an hour of their weekend and learn about cybersecurity is harder than you might think.

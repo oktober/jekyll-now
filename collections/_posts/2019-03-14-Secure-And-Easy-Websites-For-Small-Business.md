@@ -4,6 +4,12 @@ layout: post
 title: Secure and Easy Websites for Small Business
 tags: cybersecurity small-business
 description: Your business needs to be online, but you don't want to build a website. What else can you do that is easy,  secure, and will get your business online quickly?
+thumbnail: /post-thumbnails/2019-03-14-secure-and-easy-websites-for-small-business-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@hjkp
+thumbnail-creator: henry perks
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of smartphone with a Google Maps business listing loaded
 
 ---
 

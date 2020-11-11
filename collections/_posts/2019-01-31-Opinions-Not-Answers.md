@@ -3,6 +3,12 @@ layout: post
 title: Opinions, Not Answers
 tag: musings
 description: 
+thumbnail: /post-thumbnails/2019-01-31-opinions-not-answers-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@timmossholder
+thumbnail-creator: Tim Mossholder
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Woman looking at iPhone
 ---
 
 I feel inadequate most of the time.

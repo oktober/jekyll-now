@@ -3,6 +3,12 @@ layout: post
 title: Understanding HTML, CSS, and JavaScript - What they do and why they exist
 tags: tech cybersecurity
 description: Since the internet exploded across the globe, technology has grown and chanced immensely, but the foundational technologies - HTML, CSS, and JavaScript - have stayed the same. Why do we use all 3 still and what is each's original purpose?
+thumbnail: /post-thumbnails/2020-03-06-understanding-html-css-and-javascript-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@valerysysoev
+thumbnail-creator: Valery Sysoev
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Computer screen showing HTML code
 ---
 
 Since the internet exploded across the globe, technology has grown and chanced immensely. But the foundations and the specific elements in the technology largely remains the same.

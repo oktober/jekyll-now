@@ -3,6 +3,12 @@ layout: post
 title: Think Your Customer's Data Isn't Valuable? Think Again
 tags: tech cybersecurity
 description: There’s was an interesting set of data recently breached on the dark web. Apparently, DynaRisk (a security research company), found malicious hackers discussing the breached data in an online forum and it was hundreds of thousands of records on plus-size women. Not your usual set of information.
+thumbnail: /post-thumbnails/2020-05-18-think-your-customers-data-isnt-valuable-think-again-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@markusspiske
+thumbnail-creator: Markus Spiske
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of newspaper with financial stocks graph
 ---
 
 There’s was an interesting set of data recently breached on the dark web. Business Insider reported about it here - [Hackers Are Targeting Plus Size Women](https://www.businessinsider.com/hackers-targeting-plus-size-women-ads-scams-2019-12?op=1){:target="_blank"}. 

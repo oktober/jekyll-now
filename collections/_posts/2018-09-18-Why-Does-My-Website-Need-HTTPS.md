@@ -3,6 +3,12 @@ layout: post
 title: Why Does My Website Need to Use HTTPS?
 tags: cybersecurity small-business
 description: If you haven’t already made the switch, you’re probably wondering, why does my website need HTTPS? We'll tell you why you're a target and why you need it today.
+thumbnail: /post-thumbnails/2018-09-18-why-does-my-website-need-https-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@gabewasylko
+thumbnail-creator: Gabriel Wasylko
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of locked wall safe
 ---
 
 If you haven't already made the switch, you’re probably wondering **_why do you even need HTTPS?_**

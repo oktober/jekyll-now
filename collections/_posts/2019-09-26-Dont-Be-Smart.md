@@ -4,7 +4,12 @@ layout: post
 title: Don't Be Smart
 tag: musings
 description: Being smart is overrated and we need to stop praising people for it. Instead, focus on practicing. Focus on improving your skills over time and getting better - not being smart.
-
+thumbnail: /post-thumbnails/2019-09-26-dont-be-smart-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@aaronburden
+thumbnail-creator: Aaron Burden
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Silhouette of a boy sitting below a tree reading a book
 ---
 
 As a kid, I could learn most things pretty easily. Humble brag, I know. But this turned out to be more of a curse than a blessing.

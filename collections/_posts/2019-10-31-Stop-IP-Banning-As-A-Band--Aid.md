@@ -3,6 +3,12 @@ layout: post
 title: Stop IP Banning As A Band-Aid
 tag: cybersecurity
 description: Starbucks kept telling me my username and password were incorrect. But they were correct... Why couldn't I access my account and what was Starbucks doing behind the scenes?
+thumbnail: /post-thumbnails/2019-10-31-stop-ip-banning-as-a-band-aid-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@briantagalog
+thumbnail-creator: Brian Patrick Tagalog
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of person's hand with a band-aid covering a wound
 ---
 
 Let me tell you a little story.

@@ -3,6 +3,12 @@ layout: post
 title: My Life During The Pandemic - In 4 Stages
 tag: musings
 description: I’ve been putting off writing, and publishing, anything about how the Coronavirus Pandemic has affected me. Partly because I’m riding an emotional rollercoaster and partly because of how vulnerable I feel. But I think I’m ready now.
+thumbnail: /post-thumbnails/2020-06-16-my-life-during-the-pandemic-in-4-stages-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@anthonytran
+thumbnail-creator: Anthony Tran
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Woman laying down with hands over her face
 ---
 
 I’ve been putting off writing, and publishing, anything about how the Coronavirus Pandemic has affected me. Partly because I’m riding an emotional rollercoaster and partly because of how vulnerable I feel. But I think I’m ready now.

@@ -4,6 +4,12 @@ layout: post
 title: Making Cybersecurity Easier
 tag: cybersecurity
 description: Cybersecurity can feel overwhelming. There's too much to know and to do. But it doesn't have to be that way. Find out how you can make cybersecurity easier and start being more secure online.
+thumbnail: /post-thumbnails/2019-03-21-making-cybersecurity-easier-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@drewcoffman
+thumbnail-creator: Drew Coffman
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of person's feet while resting in a hammock
 
 ---
 

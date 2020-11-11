@@ -3,6 +3,12 @@ layout: post
 title: How To Keep Your Business Passwords Secure
 tags: cybersecurity small-business
 description: Long gone are the days when you only had a few passwords. Every website wants you to sign up or log in. How do you manage all those passwords and keep them secure?
+thumbnail: /post-thumbnails/2018-09-25-how-to-keep-your-business-passwords-secure-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@danny144
+thumbnail-creator: Dan Nelson
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of a smartphone with locked app on table
 ---
 
 Long gone are the days when you only had a handful of passwords. Everything's online now. And everyone wants you to sign up or log in.

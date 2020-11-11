@@ -3,6 +3,12 @@ layout: post
 title: You Already Use 2FA Every Day
 tag: cybersecurity
 description: You've heard you need to set up multi-factor or two-factor authentication. But what is it and how does it work? What if I said you already use it every day? Find out how you use it and why you need to start using it everywhere online.
+thumbnail: /post-thumbnails/2019-02-21-you-already-use-2fa-every-day-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@luferlex
+thumbnail-creator: Lukenn Sabellano
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Picture of a smartphone with fingerprint scanner
 ---
 
 

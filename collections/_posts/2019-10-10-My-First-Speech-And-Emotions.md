@@ -3,6 +3,12 @@ layout: post
 title: My First Speech and Emotions
 tag: musings
 description: Giving my first Toastmasters speech was tough, but I did it. I received some advice that really made me think.
+thumbnail: /post-thumbnails/2019-10-10-my-first-speech-and-emotions-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@korpa
+thumbnail-creator: Jr Korpa
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Abstract picture of what looks like a butterfly flying
 ---
 
 I joined Toastmasters recently. Today I gave my first speech.

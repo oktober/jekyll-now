@@ -3,6 +3,12 @@ layout: post
 title: We've Lost Control Of Our Data
 tags: musings cybersecurity
 description: Do you know where your data is? How much have you given out? Who is it going to? What does it say about you? So much of our data is in someone else's hands and we've lost control of it.
+thumbnail: /post-thumbnails/2019-01-24-weve-lost-control-of-our-data-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@ev
+thumbnail-creator: ev
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Pole with 'Big Data Is Watching You' sticker on it
 ---
 
 Do you have a Google account? I know I do. I bet you do too.

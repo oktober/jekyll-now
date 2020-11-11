@@ -3,6 +3,12 @@ layout: post
 title: PHP Security Risks - What Version Are You Using?
 tags : cybersecurity tech
 description: What version of PHP are you using? Do you know all the vulnerabilities in your PHP version and what mitigations do you have in place? Why does it even matter??
+thumbnail: /post-thumbnails/2019-09-05-php-security-risks-what-version-are-you-using-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@benofthenorth
+thumbnail-creator: Ben
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: A blue PHP stuffed elephant standing on an open laptop
 ---
 
 We all know we have to keep our devices updated. Our phones need an update about once a month (somtimes more). Software/App updates can even happen weekly. Our routers and other internet-connected devices need updating every so often too.

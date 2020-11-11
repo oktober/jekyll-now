@@ -3,6 +3,12 @@ layout: post
 title: Mitigate Future Risk with Savings
 tag: musings
 description:
+thumbnail: /post-thumbnails/2019-10-17-mitigate-future-risk-with-savings-thumbnail.jpg
+thumbnail-creator-link: https://unsplash.com/@matthewwaring
+thumbnail-creator: Matthew Waring
+thumbnail-site: https://unsplash.com/
+thumbnail-site-name: Unsplash
+image-alt: Life buoy hanging on a wall
 ---
 
 Every morning, I listen to NPR in the car. Lately, the financial news has been on a downward trend. Almost every morning, the Dow is down, the NASDAQ is down, the S&P 500 is down. It’s not sounding great.
