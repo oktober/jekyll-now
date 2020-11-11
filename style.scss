@@ -255,15 +255,22 @@ nav {
 }
 
 .post {
-  h2 {
-    margin-bottom: 0;
+  .thumbnail {
+    float: left;
+    margin-right: 0.8rem;
+    
+    .thumbnail-attribution {
+      display: block;
+    }
   }
-}
 
-.post {
   .post-title {
     margin-bottom: 0;
     line-height: 1;
+  }
+
+  h2 {
+    margin-bottom: 0;
   }
 
   blockquote {
