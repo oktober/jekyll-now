@@ -159,7 +159,7 @@ hr {
 }
 
 .masthead {
-  padding: 1.25rem 0;
+  padding: 1rem 0;
   border-bottom: 1px solid $lightGray;
   a {
     text-decoration: none;
@@ -219,9 +219,9 @@ hr {
 
 nav {
   float: right;
-  margin-top: 0.6rem;
+  margin-top: 1rem;
   font-family: $defaultHeadingFont;
-  font-size: 1.15em;
+  /*font-size: 1.15em;*/
   text-align: right;
 
   @include mobile {
@@ -231,8 +231,13 @@ nav {
     font-size: 0.9em;
   }
 
+  ul {
+    list-style: none;
+    display: flex;
+  }
+
   a {
-    margin-left: 1.3rem;
+    margin-left: 2rem;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
