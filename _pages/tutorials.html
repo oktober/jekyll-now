@@ -7,6 +7,6 @@ title: Tutorials
 <h2>How To Install Laravel 7 On VirtualBox VM Running Linux Mint 19</h2>
 {% for tutorial in site.tutorials %}
 	{% if tutorial.tags contains "mint-laravel" %}
- 		<li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ tutorial.url }}">{{ tutorial.title }}</a></li>
+ 		<li class="tutorial"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ tutorial.url }}">{{ tutorial.title }}</a></li>
 	{% endif %}
 {% endfor %}

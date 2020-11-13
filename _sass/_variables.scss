@@ -26,3 +26,9 @@ $defaultHeadingFont: "Gill Sans", sans-serif;
     @content;
   }
 }
+
+@mixin mobile-sm {
+  @media screen and (max-width: 282px) {
+    @content;
+  }
+}

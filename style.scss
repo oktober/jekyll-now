@@ -221,32 +221,60 @@ nav {
   float: right;
   margin-top: 1rem;
   font-family: $defaultHeadingFont;
-  /*font-size: 1.15em;*/
   text-align: right;
 
   @include mobile {
     float: none;
     margin-top: 0.5rem;
-    display: block;
     font-size: 0.9em;
+    text-align: center;
   }
 
   ul {
     list-style: none;
     display: flex;
+    flex-flow: row wrap;
+
+    @include mobile {
+      min-width: 140px;
+      justify-content: center;
+      align-items: center;
+      padding-left: 0;
+    }
+
+    @include mobile-sm {
+      min-width: 130px;
+      max-width: 130px;
+      margin: 0 auto;
+    }
+  }
+
+  li {
+    @include mobile-sm {
+      flex-basis: 130px;
+    }
+  }
+
+  li + li {
+    margin-left: 2rem;
+
+    @include mobile-sm {
+      margin: 0.2rem 0;
+    }
   }
 
   a {
-    margin-left: 2rem;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+  }
 
-    @include mobile {
-      margin: 0 0.2rem;
-      color: $blue;
+  a:hover {
+    @include mobile-sm {
+      text-decoration: underline;
     }
+
   }
 }
 
@@ -305,11 +333,13 @@ nav {
 }
 
 .pagination {
+  min-width: 320px;
   margin-top: 1.6em;
   display: flex;
   justify-content: space-between;
 
   .page_number {
+    min-width: 100px;
     margin: 1.1rem 0;
   }
 
@@ -364,6 +394,14 @@ nav {
     border-radius: 5px;
   }
   
+}
+
+//
+// tutorials
+//
+
+li.tutorial {
+  margin-left: 1rem;
 }
 
 //
