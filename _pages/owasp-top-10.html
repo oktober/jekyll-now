@@ -8,6 +8,7 @@ title: OWASP Top Ten
 
 <div class="article-list">
   {% for vuln in site.owasp-top-10 %}
+    {% assign mod = forloop.index0 | modulo:3 %}
     <div class="article-link">
 
 	    <a href="{{ site.baseurl }}{{ vuln.url }}" class="thumbnail"><img src="/assets/images/owasp-top-10{{ vuln.thumbnail }}" alt="{{ vuln.image-alt }}"></a>
@@ -18,10 +19,9 @@ title: OWASP Top Ten
         {{ vuln.excerpt | truncate: 156 }}
       </div>
     </div>
+    {% if mod > 0 %}
+      <!-- if items will not fit an entire row of 3 on bottom, add filler div -->
+      <div class="filler"></div>
+    {% endif %}
   {% endfor %}
 </div>
-
-<!-- if items will not fit an entire row of 3 on bottom, add filler div -->
-
-<!--<div class="filler">
-    </div>-->
