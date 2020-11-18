@@ -12,7 +12,7 @@ image-alt: Needles sticking out of an apple
 date: 2020-10-28
 ---
 
-If you want to learn about Web Application Security, you're going to need to know the OWASP Top 10 - **a list of the most critical security risks to web applications** compiled by the [OWASP *(Open Web Application Security Project)* Foundation](https://owasp.org/){:target="_blank"}.
+If you want to learn about Web Application Security, you're going to need to know the OWASP Top 10 - a list of the most critical security risks to web applications compiled by the [OWASP *(Open Web Application Security Project)* Foundation](https://owasp.org/){:target="_blank"}.
 
 We're going to dive into the first vulnerability on that list - Injection.
 
