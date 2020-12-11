@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWASP Top 10 - 3 Sensitive Data Exposure
+title: OWASP Top Ten - 3. Sensitive Data Exposure
 tags: tech
 description: 
 thumbnail: /3-sensitive-data-exposure/thumbnail.jpg

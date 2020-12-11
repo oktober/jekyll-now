@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWASP Top 10 - 1 Injection
+title: OWASP Top Ten - 1. Injection
 tags: tech
 description: 
 thumbnail: /1-injection/thumbnail.jpg

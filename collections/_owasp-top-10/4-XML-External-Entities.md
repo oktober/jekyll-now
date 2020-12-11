@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWASP Top 10 - 4. XML External Entities (XXE)
+title: OWASP Top Ten - 4. XML External Entities (XXE)
 tags: tech
 description: 
 thumbnail: /4-xml-external-entities/thumbnail.jpg

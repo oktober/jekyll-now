@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWASP Top 10 - 2 Broken Authentication
+title: OWASP Top Ten - 2. Broken Authentication
 tags: tech
 description: 
 thumbnail: /2-broken-authentication/thumbnail.jpg
