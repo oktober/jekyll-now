@@ -166,7 +166,7 @@ Like the error messages, we don't want to reveal anymore information than necess
 ##### Further Reading:
 - [Testing for Timing Attacks](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/04-Test_for_Process_Timing){:target="_blank"}
 
-#### Prevent Brute Force Attacks
+#### Possible Ways To Help Prevent Brute Force Attacks
 If you've ever taken a look at your application's login logs, you'll know how bad of a problem brute forcing is.
 
 Tons of lists of usernames and paswords are easily available for anyone interested in finding them. Many brute forcing tools exist that easily let anyone with minimal coding skills use those lists and try to brute force a login page - like [Wfuzz or THC Hydra]({% post_url 2020-06-23-Useful-Tool-for-Brute-Forcing-a-Login-Page %}).
@@ -177,7 +177,7 @@ Whether your users create strong passwords or not, **malicious actors will try t
 
 Brute force attacks are a huge problem right now and don't have an easy solution. There are different things you can try and hopefully you'll find a solution that works for your situation.
 
-#### Prevent Credential Stuffing and Password Spraying Attacks
+#### Possible Ways To Help Prevent Credential Stuffing and Password Spraying Attacks
 Due to the massive amount of account breaches, **credential stuffing and password spraying are on the rise**. The best defense against both of these issues is [protecting user accounts with MFA](https://cheatsheetseries.owasp.org/cheatsheets/Credential_Stuffing_Prevention_Cheat_Sheet.html#multi-factor-authentication){:target="_blank"}.
 
 Even if it's not feasible for you to require all your users to set up MFA, you can still enforce it behind the scenes. You can ask for additional information from the user **if you notice login attempts from the following** *([from OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Credential_Stuffing_Prevention_Cheat_Sheet.html#multi-factor-authentication){:target="_blank"})*:
@@ -203,7 +203,7 @@ There are more options you can try. I highly recommend reading through [OWASP's 
 
 <a name="session-management"></a>
 ### 4. Session Management
-Like brute forcing, session management requires a much bigger discussion than I can provide here, but **I can offer  some basic guidelines**.
+Like brute forcing, session management requires a much bigger discussion than I can provide here, but **[OWASP offers some basic guidelines](https://cheatsheetseries.owasp.org/cheatsheets/Session_Management_Cheat_Sheet.html){:target="_blank"}**.
 
 Essentially, you want to make sure once a user logs in that they can stay logged in until they've completed what they need to do.
 

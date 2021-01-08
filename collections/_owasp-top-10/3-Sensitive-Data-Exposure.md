@@ -25,7 +25,7 @@ Granted, it's not the only example of it, just the most common one we hear about
 - Breaking into a server (like a database) and stealing its data
 - Performing MITB *(Monster-In-The-Browser)* attacks (where they steal decrypted data once it's received by the browser)
 
-## How To Defend Against
+## Possible Ways To Help Prevent Sensitive Data Exposure
 Like most vulnerabilities, this is a complex one to defend against.
 
 You could encrypt everything, but what if an attacker gets into your server, steals your data, then decrypts it on their own time?

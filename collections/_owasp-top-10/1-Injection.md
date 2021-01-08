@@ -185,7 +185,7 @@ Granted, this is one very simple way to inject code into a very basic, unprotect
 #### Further Reading:
 - [OWASP - SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection){:target="_blank"}
 
-### How To Protect Against SQL Injection
+### Possible Ways To Help Prevent SQL Injection
 *Advice gathered from [OWASP's SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html){:target="_blank"}*
 
 #### Use Prepared Statements (with strongly typed parameterized queries)
@@ -263,7 +263,7 @@ If a contact web form is used to dynamically create emails, if it doesn't have p
 #### Further Reading
 - [Email Header Injection](https://www.acunetix.com/blog/articles/email-header-injection/){:target="_blank"}
 
-## Protecting Against Injection
+## Possible Ways To Help Prevent Injection
 If you want to protect yourself against possible injection attacks, you need to know where you might be vulnerable.
 
 ### Manual Code Reviews + SAST
