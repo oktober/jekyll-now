@@ -21,7 +21,11 @@ If you’re going through thousands of passwords, this is really frustrating. So
 
 <!--more-->
 
+---
+
 _Any tools I discuss are only to be used in ethical hacking scenarios where you have the **full permission** of any persons and property involved._
+
+---
 
 ## THC Hydra
 
