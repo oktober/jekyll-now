@@ -18,6 +18,12 @@ Granted, it's not the only example of it, just the most common one we hear about
 
 <!--more-->
 
+---
+
+_All examples of potential attacks in this article are for demonstration and educational purposes only. They should never be used outside of a lab environment or to harm other computers, users, etc._
+
+---
+
 ## How Data Exposure Happens
 [According to OWASP](https://owasp.org/www-project-top-ten/2017/A3_2017-Sensitive_Data_Exposure.html){:target="_blank"}, sensitive data exposure happens when malicious actors attack you in the following ways:
 - Stealing your private keys

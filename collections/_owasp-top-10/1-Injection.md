@@ -17,6 +17,11 @@ If you want to learn about Web Application Security, you're going to need to kno
 We're going to dive into the first vulnerability on that list - Injection.
 
 <!--more-->
+
+---
+
+_All examples of potential attacks in this article are for demonstration and educational purposes only. They should never be used outside of a lab environment or to harm other computers, users, etc._
+
 ---
 
 Let's say you're on a website and you visit the login page. If you're a regular user, the kind developers adore, you'll enter your correct username and password and easily log in.

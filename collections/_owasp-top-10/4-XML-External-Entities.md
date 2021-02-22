@@ -18,6 +18,12 @@ Let's talk about where XML could exist in your app, what XXE is and why it's a r
 
 <!--more-->
 
+---
+
+_All examples of potential attacks in this article are for demonstration and educational purposes only. They should never be used outside of a lab environment or to harm other computers, users, etc._
+
+---
+
 ## Where XML Is That You Might Not Realize
 Before studying XXE attacks, I didn't give a second thought to XML. I would venture a guess to say that most web developers don't think about it much.
 

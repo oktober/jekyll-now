@@ -18,6 +18,12 @@ If an attacker can access someone else's bank account, personal information, or 
 
 <!--more-->
 
+---
+
+_All examples of potential attacks in this article are for demonstration and educational purposes only. They should never be used outside of a lab environment or to harm other computers, users, etc._
+
+---
+
 When developing restricted access to resources online (such as requiring a user to log in to access their account information), you must deal with at least 2 areas: **Authentication and Authorization**.
 
 We discussed Broken Authentication *(failing to adequately verify a user is who they say they are)* in [a previous post]({{ site.baseurl }}{% link _owasp-top-10/2-Broken-Authentication.md %}).

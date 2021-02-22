@@ -20,6 +20,12 @@ Logging in allows users to interact with our sites. It expands what they can do 
 
 <!--more-->
 
+---
+
+_All examples of potential attacks in this article are for demonstration and educational purposes only. They should never be used outside of a lab environment or to harm other computers, users, etc._
+
+---
+
 Authentication means our users can create a unique account in our application. They can use our site and not worry about others messing with their stuff - at least that's the hope.
 
 The second vulnerability in the OWASP Top 10 deals with this very problem - Broken Authentication.
